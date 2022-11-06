@@ -25,7 +25,7 @@
       If you want to check my Curriculum Vitae ->
       <LinkBtn
         target="_blank"
-        href="../../src/assets/featured/kedriech-pablo-cv.pdf"
+        href="/Portfolio/src/assets/featured/kedriech-pablo-cv.pdf"
         >Download CV</LinkBtn
       >
     </p>
