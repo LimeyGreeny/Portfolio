@@ -19,16 +19,6 @@
       coding. it gives me inspired to be a progammer to make my very own
       Website, Video Editing, and Especially Games!.
     </p>
-    <p
-      class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose"
-    >
-      If you want to check my Curriculum Vitae ->
-      <LinkBtn
-        target="_blank"
-        href="/Portfolio/src/assets/featured/kedriech-pablo-cv.pdf"
-        >Download CV</LinkBtn
-      >
-    </p>
     <hr class="bg-squgily bg-repeat border-0 h-[6px] opacity-25 my-6" />
     <div class="flex flex-col gap-2 lg:gap-4">
       <h3 class="font-theme_bold text-head_text text-3xl">My Education</h3>
