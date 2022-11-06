@@ -5,7 +5,7 @@
       The page you're looking for doesn't exist. Click below to head back to the
       safe and cozy home.
     </span>
-    <ActionButton link="/">Go Home</ActionButton>
+    <ActionButton link="#">Go Home</ActionButton>
   </div>
 </template>
 

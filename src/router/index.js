@@ -6,14 +6,14 @@ import TheProjects from "../views/TheProjects.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/Portfolio",
     name: "main",
     component: TheHome,
   },
   {
     path: "/home",
     name: "home",
-    redirect: "/",
+    redirect: "/Portfolio",
   },
   {
     path: "/about",
